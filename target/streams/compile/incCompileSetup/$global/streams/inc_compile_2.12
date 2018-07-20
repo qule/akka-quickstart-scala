@@ -1,0 +1,227 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\AkkaQuickstart$.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\AkkaQuickstart$delayedInit$body.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\AkkaQuickstart.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$$anonfun$receive$1.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$Greet$.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$WhoToGreet$.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$WhoToGreet.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer$$anonfun$receive$2.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer$.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer$Greeting$.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer$Greeting.class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer.class
+binary dependencies:
+3 items
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> C:\Users\wangxufeng\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.13.jar
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> C:\Users\wangxufeng\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.AkkaQuickstart
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.AkkaQuickstart$
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.AkkaQuickstart$delayedInit$body
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Greeter
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Greeter$
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Greeter$$anonfun$receive$1
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Greeter$Greet$
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Greeter$WhoToGreet
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Greeter$WhoToGreet$
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Printer
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Printer$
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Printer$$anonfun$receive$2
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Printer$Greeting
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com.example.Printer$Greeting$
+used names:
+109 items
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> !
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> &&
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> +
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> <byname>
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> <init>
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> ==
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> A
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> A1
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> AbstractFunction1
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> AbstractPartialFunction
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Actor
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> ActorLogging
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> ActorRef
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> ActorSystem
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> AkkaQuickstart
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Any
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> AnyRef
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> App
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> B1
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Boolean
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Class
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> ClassTag
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Function1
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Greet
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Greeter
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Greeting
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> IndexOutOfBoundsException
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Int
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Iterator
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> LoggingAdapter
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> None
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Nothing
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Object
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Option
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Predef
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Printer
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Product
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Props
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> ScalaActorRef
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> ScalaRunTime
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Serializable
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Some
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> String
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> T
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> T0
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> Unit
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> WhoToGreet
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> _$7
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> _hashCode
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> _root_
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> _toString
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> actor
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> actorOf
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> actorRef2Scala
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> akka
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> apply
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> asInstanceOf
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> com
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> eq
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> example
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> goodDayGreeter
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> greeting
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> greeting_=
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> helloGreeter
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> howdyGreeter
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> info
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> isInstanceOf
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> log
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> materializeClassTag
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> message
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> package
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> printer
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> printerActor
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> props
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> qual$1
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> qual$2
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> qual$3
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> qual$4
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> qual$5
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> qual$6
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> qual$7
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> qual$8
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> reflect
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> runtime
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> scala
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> self
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> sender
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> system
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> toString
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> typedProductIterator
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> unchecked
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> who
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$1
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$10
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$11
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$12
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$13
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$14
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$15
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$16
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$2
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$3
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$4
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$5
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$6
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$7
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$8
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> x$9
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> ||
+product stamps:
+14 items
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\AkkaQuickstart$.class -> lastModified(1532060279257)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\AkkaQuickstart$delayedInit$body.class -> lastModified(1532060279291)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\AkkaQuickstart.class -> lastModified(1532060279260)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$$anonfun$receive$1.class -> lastModified(1532060279277)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$.class -> lastModified(1532060279221)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$Greet$.class -> lastModified(1532060279273)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$WhoToGreet$.class -> lastModified(1532060279269)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter$WhoToGreet.class -> lastModified(1532060279265)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Greeter.class -> lastModified(1532060279233)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer$$anonfun$receive$2.class -> lastModified(1532060279289)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer$.class -> lastModified(1532060279237)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer$Greeting$.class -> lastModified(1532060279284)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer$Greeting.class -> lastModified(1532060279281)
+D:\DISK_E\workspace\akka-quickstart-scala\target\scala-2.12\classes\com\example\Printer.class -> lastModified(1532060279248)
+source stamps:
+1 items
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> hash(5b628166b4cd745430db8ebe0ffa9d23a3ba8642)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> lastModified(1481888576600)
+C:\Users\wangxufeng\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.13.jar -> lastModified(1527512931000)
+C:\Users\wangxufeng\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.6.jar -> lastModified(1524818407000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar -> java.lang.Object
+C:\Users\wangxufeng\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.13.jar -> akka.actor.Actor
+C:\Users\wangxufeng\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.6.jar -> scala.App
+internal apis:
+1 items
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwra8m5QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDiskG8dAAEc2VsZnNxAH4AC+t0lSN0AAdjb250ZXh0dXEAfgAJAAAAQXNxAH4AC0PBE7t0AAdwcmludGVyc3EAfgALuNgCE3QABm5vdGlmeXNxAH4ACznqFsp0AAd1bmFwcGx5c3EAfgAL8A5zCXQAB1JlY2VpdmVzcQB+AAvD28GLdAAMaG93ZHlHcmVldGVyc3EAfgAL+QsgRXQABHdhaXRzcQB+AAsnckrZdAANJGFzSW5zdGFuY2VPZnNxAH4AC/KRc3l0AAZzeXN0ZW1zcQB+AAvaJ6wCdAAHY29tcG9zZXNxAH4AC4IaQ0V0AAdHcmVldGVyc3EAfgALvvUbinQADHByb2R1Y3RBcml0eXNxAH4AC1MoMWB0AAZlcXVhbHNzcQB+AAubs23zdAAIR3JlZXRpbmdzcQB+AAsolBUkdAAMYXNJbnN0YW5jZU9mc3EAfgAL06EDh3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAL6qpUnXQABUdyZWV0c3EAfgALbU8Zk3QADHN5bmNocm9uaXplZHNxAH4ACxDJ09h0AA0kaXNJbnN0YW5jZU9mc3EAfgALpmyAlHQAB2FuZFRoZW5zcQB+AAv0sq6EdAAHcmVjZWl2ZXNxAH4AC2pmCpt0AA5nb29kRGF5R3JlZXRlcnNxAH4AC365BRR0AApwcmVSZXN0YXJ0c3EAfgAL9PnFtHQADWFyb3VuZFJlY2VpdmVzcQB+AAv7X3P4dAAIY2FuRXF1YWxzcQB+AAs3xfssdAALcG9zdFJlc3RhcnRzcQB+AAvxJfjbdAAEbWFpbnNxAH4ACwRgpBZ0AAhwb3N0U3RvcHNxAH4AC0DJtqN0AAdQcmludGVyc3EAfgALY2cRxHQADXByb2R1Y3RQcmVmaXhzcQB+AAt0ouSedAAJbm90aWZ5QWxsc3EAfgALeE5ohXQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALYxad5nQADGlzSW5zdGFuY2VPZnNxAH4ACxkNrWB0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALBu1YqnQADmFyb3VuZFBvc3RTdG9wc3EAfgALzwLwPnQABjxpbml0PnNxAH4AC2Zev2B0AAhwcmVTdGFydHNxAH4AC+CqqBp0AAl1bmhhbmRsZWRzcQB+AAvkPbkKdAAFYXBwbHlzcQB+AAu9ulssdAADd2hvc3EAfgALSWC/zHQACldob1RvR3JlZXRzcQB+AAvQJ/KcdAACPT1zcQB+AAvVYqrGdAAFY2xvbmVzcQB+AAtLwnl2dAAGJGluaXQkc3EAfgALgoxySXQACGdyZWV0aW5nc3EAfgALlbjtNnQABGNvcHlzcQB+AAsIBUnqdAAGc2VuZGVyc3EAfgALdvYss3QACHRvU3RyaW5nc3EAfgALxorMyHQABGFyZ3NzcQB+AAt66faqdAACIT1zcQB+AAs/wTJgdAAIZ2V0Q2xhc3NzcQB+AAvnPheedAAOY29weSRkZWZhdWx0JDFzcQB+AAvdCE1CdAAFcHJvcHNzcQB+AAsoUYsAdAACbmVzcQB+AAuJ1/eqdAAMaGVsbG9HcmVldGVyc3EAfgALAAoRl3QAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC9al80J0AAJlcXNxAH4ACwH3nkZ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAuqNc6FdAADbG9nc3EAfgALq2/IZ3QAC2RlbGF5ZWRJbml0c3EAfgALiTKM2nQADkFra2FRdWlja3N0YXJ0c3EAfgALQczxK3QAAiMjc3EAfgALCJf4qnQACGZpbmFsaXplc3EAfgAL0BSYnnQADnByb2R1Y3RFbGVtZW50c3EAfgAL5ULcj3QACGhhc2hDb2Rlc3EAfgALtYY+NXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AnXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE2NvbS5leGFtcGxlLkdyZWV0ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AnUwACWluaGVyaXRlZHEAfgCdTAAHcGFyZW50c3EAfgCdeHEAfgC7c3EAfgC2dXEAfgCYAAAAAHNxAH4AtnVxAH4AmAAAAABzcQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALp0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ANN0AAR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yTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgFaeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCwdAAFUGxhaW5xAH4AcXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AyFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AunNxAH4Ax3QABUFycmF5cQB+AWl1cQB+AMUAAAABc3EAfgDHdAAGU3RyaW5nc3EAfgDLc3EAfgDOdXEAfgDRAAAAA3NxAH4A03EAfgDWc3EAfgDTcQB+ANhxAH4A2nNxAH4AtnVxAH4AxQAAAARzcQB+AMd0AANBcHBxAH4BaXNxAH4Ax3QAC0RlbGF5ZWRJbml0cQB+AWlzcQB+AMdxAH4AynEAfgGGc3EAfgDHcQB+ANxxAH4BaXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC2NvbS5leGFtcGxlc3EAfgGVdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkteiRNnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AENEOlxESVNLX0Vcd29ya3NwYWNlXGFra2EtcXVpY2tzdGFydC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUW2KBZrTNdFQw246+D/qdI6O6hkI=
+external apis:
+0 items
+source infos:
+1 items
+D:\DISK_E\workspace\akka-quickstart-scala\src\main\scala\com\example\AkkaQuickstart.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZLXDI451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0Q6XERJU0tfRVx3b3Jrc3BhY2VcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZLXokTZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0Q6XERJU0tfRVx3b3Jrc3BhY2VcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
