@@ -4,7 +4,7 @@
 		module="akka-quickstart-scala_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20180720113032"
+		publication="20180721144558"
 	>
 		<description>
 		akka-quickstart-scala
