@@ -1,6 +1,9 @@
 package com.example
 
 import akka.actor.{Actor, ActorLogging, ActorRef, ActorSystem, Props}
+import com.example.ActorHierarchyExperiments.system
+
+import scala.io.StdIn
 
 /**
   * Greeter
@@ -73,4 +76,8 @@ object AkkaQuickstart extends App {
 
     goodDayGreeter ! WhoToGreet("Play")
     goodDayGreeter ! Greet
+
+    println(">>> Press ENTER to exit <<<")
+    try StdIn.readLine()
+    finally system.terminate()
 }
