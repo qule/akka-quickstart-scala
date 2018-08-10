@@ -1,81 +1,15 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala, /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala, /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala, /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala, /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala, /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala, /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala, /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala, /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /Users/wxf/Documents/GitHub/akka-quickstart-scala/target/scala-2.12/classes...[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.12.6[0m
-[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.12.6. Compiling...[0m
-[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.12.6  with arguments: [0m
-[0m[[0mdebug[0m] [0m	-nowarn[0m
-[0m[[0mdebug[0m] [0m	-d[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_136f5ead[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/Users/wxf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/Users/wxf/.sbt/boot/scala-2.10.7/org.scala-sbt/sbt/0.13.17/xsbti/interface-0.13.17.jar:/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_3184e558/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.17-sources.jar:/Users/wxf/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.6.jar:/Users/wxf/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.6.jar:/Users/wxf/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar:/Users/wxf/.ivy2/cache/jline/jline/jars/jline-2.14.6.jar[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/API.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/Analyzer.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/Command.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/Compat.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/CompilerInterface.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/ConsoleInterface.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/DelegatingReporter.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/Dependency.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/ExtractAPI.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/ExtractUsedNames.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/GlobalHelpers.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/LocateClassFile.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/Log.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/Message.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/nb/1qdvl4914vz5dj4mm3y89tcw0000gn/T/sbt_f2f2966b/xsbt/ScaladocInterface.scala[0m
-[0m[[0minfo[0m] [0m  Compilation completed in 12.899 s[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.12.6[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler fd1f7a3, interfacing (CompilerInterface) with Scala compiler version 2.12.6[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/Users/wxf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/Users/wxf/Documents/GitHub/akka-quickstart-scala/target/scala-2.12/classes:/Users/wxf/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.13.jar:/Users/wxf/.ivy2/cache/com.typesafe/config/bundles/config-1.3.2.jar:/Users/wxf/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.12/bundles/scala-java8-compat_2.12-0.8.0.jar:/Users/wxf/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/jars/akka-testkit_2.12-2.5.13.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 22.137607604 s[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] The /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala source file has the following implicit definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	self, context.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] The following member ref dependencies of /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/ActorHierarchyExperiments.scala are invalidated:[0m
-[0m[[0mdebug[0m] [0m[naha] 	/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] The /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala source file has the following implicit definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	self, context.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] The /Users/wxf/Documents/GitHub/akka-quickstart-scala/src/main/scala/com/example/IotSupervisor.scala source file has the following implicit definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	self, context.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
-[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
-[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
